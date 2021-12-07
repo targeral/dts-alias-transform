@@ -1,0 +1,1 @@
+export default { extends: ['./eslintrc.prettier.js'] };
